@@ -21,14 +21,16 @@ pip install efficientnet_pytorch
 create dir checkpoints to store checkpoint
 
 ## Usage
-
+```
 python train.py
-
+```
+```
 --h
 --mode
 --epochs
 --batch
 --ckptID
+```
 ```
 tensorboard --logdir=runs
 ```
