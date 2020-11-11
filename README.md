@@ -2,7 +2,7 @@
 
 ## Overview
 The target of this homework is image classification.  
-Training 11185 pictures with cars in different type and 196 labels. I use EfficientNet as pretrained model and training with 200 epochs.  
+Training 11185 pictures with cars in different type and 196 labels.  I use EfficientNet as pretrained model and training with 200 epochs.  
 
 ## Dataset download
 You need to download the training and testing dataset from Kaggle.  
