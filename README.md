@@ -9,7 +9,7 @@ I use EfficientNet as pretrained model and training with 300 epochs.
 The following specs were used to create the original solution.
 
 * Ubuntu 18.04 LTS
-* NVIDIA GEFORCE RTX 2080
+* NVIDIA GeForce RTX 2080
 
 ## Download Official Image
 You can download the training and testing dataset from Kaggle.  
