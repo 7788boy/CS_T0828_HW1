@@ -20,7 +20,9 @@ https://www.kaggle.com/c/cs-t0828-2020-hw1/data
 ```
 pip install keras_efficientnets
 pip install efficientnet_pytorch
-``` 
+```   
+You need to create a dictory names 'checkpoints' to save chekpoint.  
+  
 ## Usage
 Run train.py to start training.   
 ```
