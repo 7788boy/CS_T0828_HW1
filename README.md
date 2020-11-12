@@ -5,8 +5,14 @@ The target of this homework is image classification.
 Training 11185 pictures with cars in different type and 196 labels.   
 I use EfficientNet as pretrained model and training with 300 epochs.  
 
+## Hardware
+The following specs were used to create the original solution.
+
+* Ubuntu 18.04 LTS
+* NVIDIA GEFORCE RTX 2080
+
 ## Download Official Image
-You need to download the training and testing dataset from Kaggle.  
+You can download the training and testing dataset from Kaggle.  
 https://www.kaggle.com/c/cs-t0828-2020-hw1/data  
 
 ## Installation
