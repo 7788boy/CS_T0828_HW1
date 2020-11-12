@@ -10,13 +10,13 @@ You need to download the training and testing dataset from Kaggle.
 https://www.kaggle.com/c/cs-t0828-2020-hw1/data  
 
 ## Installation
-*Pytorch 1.7.0
-*Numpy 1.19.2
-*Torchvision 0.8.1
-*Tensorboard 2.3.0
-*Tqdm 4.51.0
-*Cuda 10.1
-*Efficientet
+* Pytorch 1.7.0
+* Numpy 1.19.2
+* Torchvision 0.8.1
+* Tensorboard 2.3.0
+* Tqdm 4.51.0
+* Cuda 10.1
+* Efficientet  
 ```
 pip install keras_efficientnets
 pip install efficientnet_pytorch
