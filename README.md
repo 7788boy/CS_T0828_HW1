@@ -22,10 +22,12 @@ pip install keras_efficientnets
 pip install efficientnet_pytorch
 ``` 
 ## Usage
-Run train.py to start training. You can set dirfferent parameter by the following command.  
+Run train.py to start training.   
 ```
 python train.py
-
+```
+You can set dirfferent parameter by the following command.   
+```
 --h
 --mode
 --epochs
